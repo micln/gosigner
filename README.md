@@ -22,7 +22,7 @@ Read below according to [task/foo.com_demo.json](task/foo.com_demo.json)
 请参考[task/foo.com_demo.json](task/foo.com_demo.json)阅读以下说明：
 
 
-- `name` field is just use in logs.
+- `name` field is just use in logs
 - `list` contains several `request`, these `request` will running in order, last response's `cookie` will insert as next request's `cookie`
 - `data` design as a array is considering the golang programing
 
