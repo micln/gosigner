@@ -12,8 +12,10 @@ auto sign in everyday.
     
 - Run It
 
-    cd $GOPATH/src/gosigner
-    nohup ./gosigner &
+```
+cd $GOPATH/src/gosigner
+nohup ./gosigner &
+```
     
 
 ## Config
