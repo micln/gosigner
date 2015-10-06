@@ -1,17 +1,17 @@
 {
 	"name": "foo.com_demouser",
 	"list": [
-	    {
-		    "url": "http://foo.com/login",
-		    "method": "POST",
-		    "data": {
-		    	"username": ["your_username"],
-		    	"password": ["your_password"]
-    		}
-	    }, 
-	    {
-	    	"url": "http://foo.com/check_in.html",
-	    	"method": "GET"
-	    }
-    ]
+		{
+			"url": "http://foo.com/login",
+			"method": "POST",
+			"data": {
+				"username": ["your_username"],
+				"password": ["your_password"]
+			}
+		}, 
+		{
+			"url": "http://foo.com/check_in.html",
+			"method": "GET"
+		}
+	]
 }
