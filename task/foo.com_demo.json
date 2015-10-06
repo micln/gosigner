@@ -6,7 +6,7 @@
 		    "method": "POST",
 		    "data": {
 		    	"username": ["your_username"],
-    			"password": ["your_password"]
+		    	"password": ["your_password"]
     		}
 	    }, 
 	    {
